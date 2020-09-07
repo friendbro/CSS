@@ -1,4 +1,4 @@
-.bg,.nav.active,.nav:hover {
+.bg,.active,.nav:hover {
     background: linear-gradient(56deg, #c80000, #c86c00, #c3c800, #13c800, #00c8a6, #0016c8, #be00c8, #c80000);
     background-size: 2000% 2000%;
 
