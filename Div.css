@@ -1,0 +1,42 @@
+.div-head {
+	border-bottom: 5px solid black;
+	padding: 5px;
+	width: 90%;
+	font-size: 30px;
+	font-weight: 800;
+	margin: 15px;
+}
+
+
+.div {
+background-color: #252525;
+text-decoration: none;
+padding: 5px;
+border-radius: 20px;
+font-family: 'fira code', serif; 
+max-width: 315px;
+display: inline-block;
+margin-bottom: 20px; 
+margin: 5px;
+ transition: all 0.5s;
+}
+.iframe {
+max-width: 310px;
+height: 300px;
+border: 0;
+border-radius: 15px;
+  display: inline-block;
+}
+
+.name {
+color: white;  
+ font-size: 20px; 
+ padding-left: 5px;
+margin: 5px;
+}
+
+.div:hover {
+  box-shadow: 0 5px 35px 0px black;
+  transform: scale(1.025);
+}
+
