@@ -1,15 +1,16 @@
 .div-head {
-	border-bottom: 5px solid black;
+	border-bottom: 5px solid white;
 	padding: 5px;
 	width: 90%;
 	font-size: 30px;
+	color: white;
 	font-weight: 800;
 	margin: 15px;
 }
 
 
 .div {
-background-color: #252525;
+background-color:#353535;
 text-decoration: none;
 padding: 5px;
 border-radius: 20px;
