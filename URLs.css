@@ -1,0 +1,73 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	color: white;
+	background-color: #303030;
+	font-family: fira code;
+}
+
+.head {
+background: #252525;
+border-radius: 5px;
+padding: 10px;
+transition: all 0.25s;
+color: white;
+font-family: fira code;
+transition: all 0.25s;
+text-align: center;
+	}
+
+.head:hover{
+	text-decoration: underline;
+	   transform: scale(1.025);
+}
+
+div{
+	transition: all 0.25s;
+	width: 90%;
+	margin-left: 5%;
+}
+
+div:hover {
+	box-shadow: 10px 10px 5px black;
+}
+
+.link-div:hover{
+	transform: scale(1.1);
+}
+
+.link-div {
+background-color: #252525;
+margin: 10px;
+padding: 10px;
+width: 120px;
+display: inline-block;
+border-radius: 5px;
+text-align: center;
+}
+
+.link {
+	color: white;
+	text-decoration: none;
+}
+
+.link:hover{
+	color: #aaa;
+	text-decoration: underline;
+}
+
+@media only screen and (max-width: 600px) {
+.link-div {
+  width: 39%;
+  padding: 2%;
+  margin: 2%;
+}
+}
+
+.Faltu {
+font-family: 'Barrio';
+font-size: 22px;
+color: white;
