@@ -22,7 +22,7 @@ text-align: center;
 
 .head:hover{
 	text-decoration: underline;
-	   transform: scale(1.025);
+	   transform: scale(1.029);
 }
 
 div{
@@ -32,7 +32,8 @@ div{
 }
 
 div:hover {
-	box-shadow: 10px 10px 5px black;
+  box-shadow: 0 5px 35px 0px black;
+  transform: scale(1.025);
 }
 
 .link-div:hover{
@@ -70,4 +71,7 @@ text-align: center;
 .Faltu {
 font-family: 'Barrio';
 font-size: 22px;
-color: white;
+border: black 2px;
+border-radius: 10px;
+background-color: blanchedalmond;
+color: black;
