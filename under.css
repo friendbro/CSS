@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.under {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    background-color: black;
+    padding: 2%;
+}
+
+.develop {
+    background-color: #404040;
+    color: white;
+    border-radius: 10px;
+    width: 85%;
+}
+
+.notice {
+    background-color: #232323;
+    color: white;
+}
