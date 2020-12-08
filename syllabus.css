@@ -1,0 +1,52 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #222222;
+}
+
+.head {
+background: #252525;
+border-radius: 5px;
+padding: 10px;
+margin: 20px;
+transition: all 0.25s;
+color: white;
+font-family: fira code;
+transition: all 0.25s;
+text-align: center;
+}
+
+.head:hover{
+   transform: scale(1.029);
+}
+
+button {
+    background-color: #303030;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border: 0;
+    border-radius: 10px;
+    transition: 0.25s;
+}
+
+button:hover {
+   box-shadow: 0 5px 35px 0px black;
+  transform: scale(1.025);   
+}
+
+#demo{
+    background-color: #303030;
+    font-size: 17px;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    width: 92%;
+    visibility: hidden;
+    font-family:open-sans;
+}
