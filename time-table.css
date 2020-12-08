@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #252525;
+}
+
+table,td,th,caption {
+    text-align: center;
+    border: 3px solid #606060;
+    border-collapse: collapse;
+    padding: 10px;
+    color: white;
+    font-size: 22px;
+    margin: 10px;
+}
