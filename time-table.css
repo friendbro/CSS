@@ -16,3 +16,27 @@ table,td,th,caption {
     font-size: 22px;
     margin: 10px;
 }
+
+button {
+    border: hidden;
+    background-color: transparent;
+    color: white;
+    font-size: 22px;
+}
+
+button:hover {
+   box-shadow: 0 5px 35px 0px black;
+  transform: scale(1.025);   
+}
+
+#demo{
+    background-color: #303030;
+    font-size: 17px;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    width: 92%;
+    visibility: hidden;
+    font-family:open-sans;
+}
