@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    text-decoration: none;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    padding: 5px;
+    background-color: #252525;
+    color: white;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+p, a{
+    margin: 10px;
+    padding: 5px;
+    font-size: 20px;
+    background-color: #404040;
+    border-radius: 5px;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+}
